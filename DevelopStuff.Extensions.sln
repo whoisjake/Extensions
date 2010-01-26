@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopStuff.Extensions", "DevelopStuff.Extensions\DevelopStuff.Extensions.csproj", "{2FEDF5FC-5CDE-4BBA-A3A2-41C1B762B036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopStuff.Extensions.Tests", "DevelopStuff.Extensions.Tests\DevelopStuff.Extensions.Tests.csproj", "{2CACD3B0-8917-4189-9E2A-257E6497BFDC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "License", "License", "{C5959EAA-75A2-4973-970E-FA7D12D7B9ED}"
+	ProjectSection(SolutionItems) = preProject
+		License.txt = License.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FEDF5FC-5CDE-4BBA-A3A2-41C1B762B036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FEDF5FC-5CDE-4BBA-A3A2-41C1B762B036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FEDF5FC-5CDE-4BBA-A3A2-41C1B762B036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FEDF5FC-5CDE-4BBA-A3A2-41C1B762B036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CACD3B0-8917-4189-9E2A-257E6497BFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CACD3B0-8917-4189-9E2A-257E6497BFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CACD3B0-8917-4189-9E2A-257E6497BFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CACD3B0-8917-4189-9E2A-257E6497BFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
